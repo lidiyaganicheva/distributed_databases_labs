@@ -1,0 +1,31 @@
+2025-01-06 19:30:57,857 - INFO - HazelcastClient 5.5.0 is STARTING
+2025-01-06 19:30:57,857 - INFO - HazelcastClient 5.5.0 is STARTED
+2025-01-06 19:30:57,858 - INFO - Trying to connect to Address(host=192.168.1.147, port=5702)
+2025-01-06 19:30:57,873 - INFO - HazelcastClient 5.5.0 is CONNECTED
+2025-01-06 19:30:57,874 - INFO - Authenticated with server Address(host=192.168.1.147, port=5702):6eb03d0a-6d95-4de3-87e1-d6d411302eef, server version: 5.0.5, local address: Address(host=192.168.1.147, port=57257)
+2025-01-06 19:30:57,881 - INFO - 
+
+Members [3] {
+	Member [192.168.1.147]:5701 - 9b12173b-e28e-44ef-952d-b3c3502749c3
+	Member [192.168.1.147]:5702 - 6eb03d0a-6d95-4de3-87e1-d6d411302eef
+	Member [192.168.1.147]:5703 - 5a377881-3868-4a1e-a774-a443048b16c9
+}
+
+2025-01-06 19:30:57,902 - INFO - Authenticated with server Address(host=192.168.1.147, port=5701):9b12173b-e28e-44ef-952d-b3c3502749c3, server version: 5.0.5, local address: Address(host=192.168.1.147, port=57258)
+2025-01-06 19:30:57,920 - INFO - Authenticated with server Address(host=192.168.1.147, port=5703):5a377881-3868-4a1e-a774-a443048b16c9, server version: 5.0.5, local address: Address(host=192.168.1.147, port=57259)
+2025-01-06 19:30:57,941 - INFO - Client started
+2025-01-06 19:31:00,984 - INFO - All counters are reset to initial state
+2025-01-06 19:31:00,985 - INFO - Starting concurrent run for counter_without_blocking
+2025-01-06 19:34:15,703 - INFO - All threads completed. Execution_time = 194.72 s. Final counter: 10565
+2025-01-06 19:34:15,704 - INFO - Starting concurrent run for counter_with_pessimistic_blocking
+2025-01-06 20:02:09,985 - INFO - All threads completed. Execution_time = 1674.28 s. Final counter: 100000
+2025-01-06 20:02:09,985 - INFO - Starting concurrent run for counter_with_optimistic_blocking
+2025-01-06 20:29:24,381 - INFO - All threads completed. Execution_time = 1634.38 s. Final counter: 100000
+2025-01-06 20:29:24,381 - INFO - Starting concurrent run for counter_iatomiclong
+2025-01-06 20:30:35,968 - INFO - All threads completed. Execution_time = 71.53 s. Final counter: 100000
+2025-01-06 20:30:35,968 - INFO - HazelcastClient 5.5.0 is SHUTTING_DOWN
+2025-01-06 20:30:35,970 - INFO - Removed connection to Address(host=192.168.1.147, port=5702):6eb03d0a-6d95-4de3-87e1-d6d411302eef, connection: Connection(id=0, live=False, remote_address=Address(host=192.168.1.147, port=5702))
+2025-01-06 20:30:35,971 - INFO - Removed connection to Address(host=192.168.1.147, port=5701):9b12173b-e28e-44ef-952d-b3c3502749c3, connection: Connection(id=1, live=False, remote_address=Address(host=192.168.1.147, port=5701))
+2025-01-06 20:30:35,971 - INFO - Removed connection to Address(host=192.168.1.147, port=5703):5a377881-3868-4a1e-a774-a443048b16c9, connection: Connection(id=2, live=False, remote_address=Address(host=192.168.1.147, port=5703))
+2025-01-06 20:30:35,972 - INFO - HazelcastClient 5.5.0 is DISCONNECTED
+2025-01-06 20:30:35,987 - INFO - HazelcastClient 5.5.0 is SHUTDOWN

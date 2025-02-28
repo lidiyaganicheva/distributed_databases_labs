@@ -1,0 +1,3 @@
+2025-02-28 22:13:43,360 - INFO - Number of likes is set to 0
+2025-02-28 22:13:43,371 - INFO - Starting concurrent run for update
+2025-02-28 22:21:07,239 - INFO - All threads completed. Execution_time = 443.86 s. Final counter: 100000>

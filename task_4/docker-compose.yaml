@@ -1,0 +1,38 @@
+networks:
+  mongo-cluster:
+    driver: bridge
+
+services:
+  mongo1:
+    image: mongo:latest
+    container_name: mongo1
+    restart: always
+    networks:
+      - mongo-cluster
+    ports:
+      - "27017:27017"
+    command: ["mongod", "--replSet", "rs0", "--bind_ip", "0.0.0.0"]
+
+  mongo2:
+    image: mongo:latest
+    container_name: mongo2
+    restart: always
+    networks:
+      - mongo-cluster
+    ports:
+      - "27018:27017"
+    command: ["mongod", "--replSet", "rs0", "--bind_ip", "0.0.0.0"]
+
+  mongo3:
+    image: mongo:latest
+    container_name: mongo3
+    restart: always
+    networks:
+      - mongo-cluster
+    ports:
+      - "27019:27017"
+    command: ["mongod", "--replSet", "rs0", "--bind_ip", "0.0.0.0"]
+
+
+
+

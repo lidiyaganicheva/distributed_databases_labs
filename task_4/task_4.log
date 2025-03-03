@@ -1,0 +1,6 @@
+2025-03-03 12:53:15,005 - INFO - Number of likes is set to 0
+2025-03-03 12:53:15,005 - INFO - Starting concurrent run for update_mongo with write concern 1
+2025-03-03 13:14:56,818 - INFO - All threads completed. Execution_time = 1301.68 s. Final counter: 100000
+2025-03-03 13:14:57,077 - INFO - Number of likes is set to 0
+2025-03-03 13:14:57,077 - INFO - Starting concurrent run for update_mongo with write concern majority
+2025-03-03 13:36:59,932 - INFO - All threads completed. Execution_time = 1322.73 s. Final counter: 100000

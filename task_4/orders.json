@@ -1,0 +1,309 @@
+[{
+  "_id": {
+    "$oid": "679a4f076a35ef1f5842784c"
+  },
+  "order_number": 100500,
+  "date": "2025-01-29",
+  "customer": {
+    "name": "Lidiya",
+    "surname": "Hanicheva",
+    "phones": [
+      123456,
+      789100
+    ],
+    "address": "Lobanovskogo ave., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100500"
+    }
+  },
+  "payment": {
+    "card_owner": "Lidiya Hanicheva",
+    "cardId": 12345678
+  },
+  "items_id": [
+    "679a3e546a35ef1f58427837",
+    "679a3e546a35ef1f5842783c"
+  ],
+  "total_amount": 39198
+},
+{
+  "_id": {
+    "$oid": "679a4f076a35ef1f5842784d"
+  },
+  "order_number": 100501,
+  "date": "2025-02-01",
+  "customer": {
+    "name": "Ivan",
+    "surname": "Petrov",
+    "phones": [
+      234567,
+      891011
+    ],
+    "address": "Shevchenko str., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100501"
+    }
+  },
+  "payment": {
+    "card_owner": "Ivan Petrov",
+    "cardId": 23456789
+  },
+  "items_id": [
+    "679a3e546a35ef1f58427833",
+    "679a3e546a35ef1f5842783a"
+  ],
+  "total_amount": 47998
+},
+{
+  "_id": {
+    "$oid": "679a4f076a35ef1f5842784e"
+  },
+  "order_number": 100502,
+  "date": "2025-02-05",
+  "customer": {
+    "name": "Lidiya",
+    "surname": "Hanicheva",
+    "phones": [
+      123456,
+      789100
+    ],
+    "address": "Lobanovskogo ave., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100500"
+    }
+  },
+  "payment": {
+    "card_owner": "Lidiya Hanicheva",
+    "cardId": 12345678
+  },
+  "items_id": [
+    "679a3e546a35ef1f58427835",
+    "679a3e546a35ef1f58427836"
+  ],
+  "total_amount": 11199
+},
+{
+  "_id": {
+    "$oid": "679a4f076a35ef1f5842784f"
+  },
+  "order_number": 100503,
+  "date": "2025-02-10",
+  "customer": {
+    "name": "Serhii",
+    "surname": "Sidorko",
+    "phones": [
+      456789,
+      101112
+    ],
+    "address": "Peremohy ave., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100503"
+    }
+  },
+  "payment": {
+    "card_owner": "Serhii Sidorko",
+    "cardId": 45678901
+  },
+  "items_id": [
+    "679a3e546a35ef1f5842783d",
+    "679a3e546a35ef1f58427838"
+  ],
+  "total_amount": 38198
+},
+{
+  "_id": {
+    "$oid": "679a4f076a35ef1f58427850"
+  },
+  "order_number": 100504,
+  "date": "2025-02-15",
+  "customer": {
+    "name": "Hanna",
+    "surname": "Kuznetchuk",
+    "phones": [
+      567890,
+      111213
+    ],
+    "address": "Bohdana Khmelnytskoho str., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100504"
+    }
+  },
+  "payment": {
+    "card_owner": "Hanna Kuznetchuk",
+    "cardId": 56789012
+  },
+  "items_id": [
+    "679a3e546a35ef1f58427839",
+    "679a3e546a35ef1f58427834"
+  ],
+  "total_amount": 38998
+},
+{
+  "_id": {
+    "$oid": "679a4f076a35ef1f58427851"
+  },
+  "order_number": 100505,
+  "date": "2025-02-20",
+  "customer": {
+    "name": "Dmytro",
+    "surname": "Kovalenko",
+    "phones": [
+      678901,
+      121314
+    ],
+    "address": "Lesi Ukrainky ave., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100505"
+    }
+  },
+  "payment": {
+    "card_owner": "Dmytro Kovalenko",
+    "cardId": 67890123
+  },
+  "items_id": [
+    "679a3e546a35ef1f5842783b",
+    "679a3e546a35ef1f5842783c"
+  ],
+  "total_amount": 54998
+},
+{
+  "_id": {
+    "$oid": "679a4f076a35ef1f58427852"
+  },
+  "order_number": 100506,
+  "date": "2025-02-25",
+  "customer": {
+    "name": "Mykola",
+    "surname": "Pustovoit",
+    "phones": [
+      789012,
+      131415
+    ],
+    "address": "Gorkogo str., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100506"
+    }
+  },
+  "payment": {
+    "card_owner": "Mykola Pustovoit",
+    "cardId": 78901234
+  },
+  "items_id": [
+    "679a3e546a35ef1f58427833",
+    "679a3e546a35ef1f58427837"
+  ],
+  "total_amount": 36198
+},
+{
+  "_id": {
+    "$oid": "679a4f076a35ef1f58427853"
+  },
+  "order_number": 100507,
+  "date": "2025-03-01",
+  "customer": {
+    "name": "Lidiya",
+    "surname": "Hanicheva",
+    "phones": [
+      123456,
+      789100
+    ],
+    "address": "Lobanovskogo ave., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100500"
+    }
+  },
+  "payment": {
+    "card_owner": "Lidiya Hanicheva",
+    "cardId": 12345678
+  },
+  "items_id": [
+    "679a3e546a35ef1f58427834",
+    "679a3e546a35ef1f58427835",
+    "679a3e546a35ef1f58427836"
+  ],
+  "total_amount": 25198
+},
+{
+  "_id": {
+    "$oid": "679a4f076a35ef1f58427854"
+  },
+  "order_number": 100508,
+  "date": "2025-03-05",
+  "customer": {
+    "name": "Iryna",
+    "surname": "Volkova",
+    "phones": [
+      123456,
+      161718
+    ],
+    "address": "Velyka Vasylkivska str., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100509"
+    }
+  },
+  "payment": {
+    "card_owner": "Iryna Volkova",
+    "cardId": 12345678
+  },
+  "items_id": [
+    "679a3e546a35ef1f58427837"
+  ],
+  "total_amount": 16199
+},
+{
+  "_id": {
+    "$oid": "679a4f076a35ef1f58427855"
+  },
+  "order_number": 100509,
+  "date": "2025-03-10",
+  "customer": {
+    "name": "Iryna",
+    "surname": "Volkova",
+    "phones": [
+      123456,
+      161718
+    ],
+    "address": "Velyka Vasylkivska str., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100509"
+    }
+  },
+  "payment": {
+    "card_owner": "Iryna Volkova",
+    "cardId": 12345678
+  },
+  "items_id": [
+    "679a3e546a35ef1f58427838",
+    "679a3e546a35ef1f58427839"
+  ],
+  "total_amount": 45198
+},
+{
+  "_id": {
+    "$oid": "679a4f076a35ef1f58427856"
+  },
+  "order_number": 100510,
+  "date": "2025-03-15",
+  "customer": {
+    "name": "Mykola",
+    "surname": "Pustovoit",
+    "phones": [
+      789012,
+      131415
+    ],
+    "address": "Gorkogo str., Kyiv, UA",
+    "discout_card_id": {
+      "$numberLong": "556200100506"
+    }
+  },
+  "payment": {
+    "card_owner": "Mykola Pustovoit",
+    "cardId": 78901234
+  },
+  "items_id": [
+    "679a3e546a35ef1f5842783a",
+    "679a3e546a35ef1f5842783b",
+    "679a3e546a35ef1f5842783c"
+  ],
+  "total_amount": 82997
+}]

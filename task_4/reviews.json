@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Unbeliveable Goddess",
+        "rating": 1,
+        "review": "Salesman was rude, I'll never go back here again!"
+    },
+    {
+        "name": "Ramanga Zanzi",
+        "rating": 5,
+        "review": "UN provide help for Ukrainians, 10000 UAH per person. For detail email to: xisa-245xz@xz.co.za"
+    },
+    {
+        "name": "Black Jack",
+        "rating": 3,
+        "review": "I wanted to buy a beer but they didn't have any"
+    },
+    {
+        "name": "Samantha Doe",
+        "rating": 5,
+        "review": "Quality products, consultant was very helpful, free delivery"
+    },
+    {
+        "name": "Jack Doe",
+        "rating": 4,
+        "review": "Nice, but there are other shops with better prices"
+    }
+]

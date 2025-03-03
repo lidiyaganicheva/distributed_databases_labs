@@ -1,0 +1,174 @@
+[
+    {
+
+        "name": "Whirlpool WRBSB 6228 B UA",
+        "price": 19999,
+        "currency": "UAH",
+        "brand": "Whirlpool",
+        "category": "Refrigerators",
+        "color": "Black",
+        "dimensions": {
+            "height": "188.9 cm",
+            "width": "59.5 cm",
+            "depth": "65.5 cm"
+        },
+        "weight": "71 kg",
+        "defrost_system": "No Frost"
+    },
+    {
+        "name": "Samsung WW80J5410GW/UA",
+        "price": 13999,
+        "currency": "UAH",
+        "brand": "Samsung",
+        "category": "Washing Machines",
+        "color": "White",
+        "capacity": "8 kg",
+        "dimensions": {
+            "height": "85 cm",
+            "width": "60 cm",
+            "depth": "55 cm"
+        },
+        "weight": "61 kg",
+        "quick_wash": "Yes"
+    },
+    {
+        "name": "LG F2J5NNP3W",
+        "price": 10999,
+        "currency": "UAH",
+        "brand": "LG",
+        "category": "Washing Machines",
+        "color": "White",
+        "capacity": "6 kg",
+        "dimensions": {
+            "height": "85 cm",
+            "width": "60 cm",
+            "depth": "44 cm"
+        },
+        "weight": "60 kg",
+        "child_lock": "Yes",
+        "quick_wash": "Yes"
+    },
+    {
+        "name": "Philips XC5141/01",
+        "price": 8999,
+        "currency": "UAH",
+        "brand": "Philips",
+        "category": "Vacuum Cleaners",
+        "type": "Handheld",
+        "color": "Black",
+        "dust_capacity": "0.6 L",
+        "weight": "2.7 kg",
+        "filter_type": "HEPA",
+        "attachments": ["Crevice tool", "Brush"]
+
+    },
+    {
+        "name": "Philips XC8057/01",
+        "price": 15999,
+        "currency": "UAH",
+        "brand": "Philips",
+        "category": "Vacuum Cleaners",
+        "type": "Stick",
+        "color": "Black",
+        "dust_capacity": "0.6 L",
+        "weight": "2.7 kg",
+        "filter_type": "HEPA",
+        "attachments": ["Crevice tool", "Brush", "Mini turbo brush"]
+    },
+    {  
+        "name": "Bosch BCS71HYG2",
+        "price": 19999,
+        "currency": "UAH",
+        "brand": "Bosch",
+        "category": "Vacuum Cleaners",
+        "type": "Stick",
+        "color": "White",
+        "dust_capacity": "0.9 L",
+        "weight": "3.3 kg",
+        "filter_type": "HEPA",
+        "attachments": ["Crevice tool", "Brush", "Mini turbo brush"]
+    },
+    {
+        "name": "Siemens TE651319RW",
+        "price": 24999,
+        "currency": "UAH",
+        "brand": "Siemens",
+        "category": "Coffee Machines",
+        "type": "Automatic",
+        "color": "Black",
+        "water_tank_capacity": "1.7 L",
+        "pressure": "15 bar",
+        "dimensions": {
+            "height": "38 cm",
+            "width": "28 cm",
+            "depth": "47 cm"
+        },
+        "weight": "10 kg"
+    },
+    {
+        "name": "Philips EP4449/70",
+        "price": 27999,
+        "currency": "UAH",
+        "brand": "Philips",
+        "category": "Coffee Machines",
+        "type": "Automatic",
+        "color": "Black",
+        "water_tank_capacity": "1.8 L",
+        "bean_container_capacity": "275 g",
+        "pressure": "15 bar",
+        "dimensions": {
+            "height": "37 cm",
+            "width": "24 cm",
+            "depth": "43 cm"
+        },
+        "weight": "8 kg"
+    },
+    {
+        "name": "DeLonghi ECAM31060B",
+        "price": 31999,
+        "currency": "UAH",
+        "brand": "DeLonghi",
+        "category": "Coffee Machines",
+        "type": "Automatic",
+        "color": "Black",
+        "water_tank_capacity": "1.8 L",
+        "pressure": "15 bar",
+        "dimensions": {
+            "height": "36 cm",
+            "width": "26 cm",
+            "depth": "46 cm"
+        },
+        "weight": "11 kg"
+    },
+    {
+        "name": "Whirlpool W7X 82IOX",
+        "price": 22999,
+        "currency": "UAH",
+        "brand": "Whirlpool",
+        "category": "Refrigerators",
+        "color": "Stainless Steel",
+        "total_volume": "338 L",
+        "dimensions": {
+            "height": "191.2 cm",
+            "width": "59.6 cm",
+            "depth": "67.7 cm"
+        },
+        "weight": "72 kg"
+    },
+    {
+        "name": "Samsung RB37J5000SA/UA",
+        "price": 17999,
+        "currency": "UAH",
+        "brand": "Samsung",
+        "category": "Refrigerators",
+        "color": "Silver",
+        "total_volume": "367 L",
+        "dimensions": {
+            "height": "201 cm",
+            "width": "59.5 cm",
+            "depth": "67.5 cm"
+        },
+        "weight": "70 kg",
+        "defrost_system": "No Frost"
+    }
+]
